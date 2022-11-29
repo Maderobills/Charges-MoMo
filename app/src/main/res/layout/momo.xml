@@ -36,12 +36,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <View
-            android:id="@+id/view"
-            android:layout_width="319dp"
-            android:layout_height="183dp"
-            android:layout_margin="50dp"
-            android:background="#902C0505" />
 
         <ImageButton
             android:id="@+id/imageButton3"
