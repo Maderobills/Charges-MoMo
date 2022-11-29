@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/antic</item>
+        <item>@font/blinker_light</item>
+    </array>
+</resources>
