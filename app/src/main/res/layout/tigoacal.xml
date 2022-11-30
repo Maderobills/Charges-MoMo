@@ -360,7 +360,7 @@
                     android:textStyle="bold" />
 
                 <LinearLayout
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal">
 
@@ -378,7 +378,8 @@
                         android:text="P2P"
                         android:textColor="@color/red"
                         android:textColorHighlight="@color/mtn_yellow"
-                        android:textColorLink="@color/mtn_yellow" />
+                        android:textColorLink="@color/mtn_yellow"
+                        android:textSize="12sp" />
 
                     <CheckBox
                         android:id="@+id/checkBox3"
@@ -394,7 +395,8 @@
                         android:text="Merchant"
                         android:textColor="@color/red"
                         android:textColorHighlight="@color/mtn_yellow"
-                        android:textColorLink="@color/mtn_yellow" />
+                        android:textColorLink="@color/mtn_yellow"
+                        android:textSize="12sp" />
 
                     <CheckBox
                         android:id="@+id/checkBox2"
@@ -410,7 +412,8 @@
                         android:text="Other Networks"
                         android:textColor="@color/red"
                         android:textColorHighlight="@color/mtn_yellow"
-                        android:textColorLink="@color/mtn_yellow" />
+                        android:textColorLink="@color/mtn_yellow"
+                        android:textSize="12sp" />
 
 
                 </LinearLayout>
